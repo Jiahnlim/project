@@ -1,0 +1,177 @@
+[2021-06-23 10:34:28] INFO [product.views:199] plist whdtjdgld 36
+[2021-06-23 10:34:31] INFO [order.views:39] cart whdtjdgld 36
+[2021-06-23 10:34:54] INFO [product.views:199] plist whdtjdgld 14
+[2021-06-23 10:34:56] INFO [order.views:39] cart whdtjdgld 14
+[2021-06-23 10:34:59] INFO [order.views:188] buy whdtjdgld 36 139000 1
+[2021-06-23 10:34:59] INFO [order.views:188] buy whdtjdgld 14 178000 1
+[2021-06-23 10:35:26] INFO [product.views:199] plist wlgusrb 22
+[2021-06-23 10:35:27] INFO [order.views:39] cart wlgusrb 22
+[2021-06-23 10:35:36] INFO [product.views:199] plist wlgusrb 14
+[2021-06-23 10:35:37] INFO [order.views:39] cart wlgusrb 14
+[2021-06-23 10:35:50] INFO [product.views:199] plist wlgusrb 6
+[2021-06-23 10:35:52] INFO [order.views:39] cart wlgusrb 6
+[2021-06-23 10:36:05] INFO [order.views:188] buy wlgusrb 14 178000 1
+[2021-06-23 10:36:05] INFO [order.views:188] buy wlgusrb 6 357000 1
+[2021-06-23 10:36:48] INFO [product.views:199] plist whdtjdgld 78
+[2021-06-23 10:37:08] INFO [order.views:39] cart whdtjdgld 78
+[2021-06-23 10:37:50] INFO [product.views:199] plist whdtjdgld 37
+[2021-06-23 10:38:30] INFO [order.views:39] cart whdtjdgld 37
+[2021-06-23 10:38:40] INFO [order.views:188] buy whdtjdgld 78 380000 1
+[2021-06-23 10:38:40] INFO [order.views:188] buy whdtjdgld 37 157000 1
+[2021-06-23 11:02:03] INFO [product.views:199] plist whdtjd111 7
+[2021-06-23 11:02:03] INFO [order.views:39] cart whdtjd111 7
+[2021-06-23 11:02:18] INFO [product.views:199] plist whdtjd111 57
+[2021-06-23 11:02:19] INFO [order.views:39] cart whdtjd111 57
+[2021-06-23 11:02:26] INFO [product.views:199] plist whdtjd111 35
+[2021-06-23 11:02:29] INFO [order.views:39] cart whdtjd111 35
+[2021-06-23 11:02:32] INFO [order.views:188] buy whdtjd111 7 1404000 1
+[2021-06-23 11:02:32] INFO [order.views:188] buy whdtjd111 57 286400 1
+[2021-06-23 11:02:32] INFO [order.views:188] buy whdtjd111 35 282000 1
+[2021-06-23 11:02:53] INFO [product.views:199] plist whdtjd111 87
+[2021-06-23 11:02:54] INFO [order.views:39] cart whdtjd111 87
+[2021-06-23 11:03:33] INFO [product.views:199] plist whdtjd111 22
+[2021-06-23 11:03:34] INFO [order.views:39] cart whdtjd111 22
+[2021-06-23 11:03:46] INFO [order.views:188] buy whdtjd111 87 297400 2
+[2021-06-23 11:03:46] INFO [order.views:188] buy whdtjd111 22 214000 3
+[2021-06-23 11:05:29] INFO [product.views:199] plist qorwhdtjd 6
+[2021-06-23 11:05:30] INFO [order.views:39] cart qorwhdtjd 6
+[2021-06-23 11:05:35] INFO [product.views:199] plist qorwhdtjd 17
+[2021-06-23 11:05:50] INFO [product.views:199] plist qorwhdtjd 69
+[2021-06-23 11:05:51] INFO [order.views:39] cart qorwhdtjd 69
+[2021-06-23 11:06:12] INFO [product.views:199] plist qorwhdtjd 20
+[2021-06-23 11:06:14] INFO [order.views:39] cart qorwhdtjd 20
+[2021-06-23 11:06:19] INFO [order.views:188] buy qorwhdtjd 6 357000 1
+[2021-06-23 11:06:19] INFO [order.views:188] buy qorwhdtjd 69 160700 2
+[2021-06-23 11:06:19] INFO [order.views:188] buy qorwhdtjd 20 548000 1
+[2021-06-23 11:10:30] INFO [product.views:199] plist jihoonl0414 87
+[2021-06-23 11:10:31] INFO [order.views:39] cart jihoonl0414 87
+[2021-06-23 11:10:35] INFO [order.views:188] buy jihoonl0414 87 297400 1
+[2021-06-23 14:51:07] INFO [product.views:199] plist ptsd 10
+[2021-06-23 14:51:11] INFO [product.views:199] plist ptsd 65
+[2021-06-23 14:51:16] INFO [product.views:199] plist ptsd 20
+[2021-06-23 14:51:22] INFO [order.views:39] cart ptsd 20
+[2021-06-23 14:51:30] INFO [product.views:199] plist ptsd 81
+[2021-06-23 14:51:32] INFO [order.views:39] cart ptsd 81
+[2021-06-23 14:51:35] INFO [product.views:199] plist rlagusrkd123 37
+[2021-06-23 14:51:36] INFO [order.views:39] cart rlagusrkd123 37
+[2021-06-23 14:51:42] INFO [product.views:199] plist ptsd 38
+[2021-06-23 14:51:49] INFO [product.views:199] plist ptsd 58
+[2021-06-23 14:51:51] INFO [order.views:39] cart ptsd 58
+[2021-06-23 14:51:56] INFO [product.views:199] plist rlagusrkd123 64
+[2021-06-23 14:51:58] INFO [order.views:39] cart rlagusrkd123 64
+[2021-06-23 14:52:03] INFO [order.views:188] buy rlagusrkd123 37 157000 1
+[2021-06-23 14:52:03] INFO [order.views:188] buy rlagusrkd123 64 220000 1
+[2021-06-23 14:52:04] INFO [order.views:188] buy ptsd 20 548000 1
+[2021-06-23 14:52:04] INFO [order.views:188] buy ptsd 81 346000 3
+[2021-06-23 14:52:04] INFO [order.views:188] buy ptsd 58 456000 1
+[2021-06-23 14:52:09] INFO [product.views:199] plist rlagusrkd123 20
+[2021-06-23 14:52:10] INFO [order.views:39] cart rlagusrkd123 20
+[2021-06-23 14:52:24] INFO [product.views:199] plist rlagusrkd123 87
+[2021-06-23 14:52:27] INFO [order.views:39] cart rlagusrkd123 87
+[2021-06-23 14:52:27] INFO [product.views:199] plist ptsd 47
+[2021-06-23 14:52:28] INFO [order.views:39] cart ptsd 47
+[2021-06-23 14:52:33] INFO [order.views:188] buy rlagusrkd123 20 548000 1
+[2021-06-23 14:52:33] INFO [order.views:188] buy rlagusrkd123 87 297400 2
+[2021-06-23 14:52:34] INFO [order.views:188] buy ptsd 47 155000 1
+[2021-06-23 14:52:43] INFO [product.views:199] plist rlagusrkd123 17
+[2021-06-23 14:52:44] INFO [order.views:39] cart rlagusrkd123 17
+[2021-06-23 14:52:54] INFO [product.views:199] plist rlagusrkd123 56
+[2021-06-23 14:52:56] INFO [order.views:39] cart rlagusrkd123 56
+[2021-06-23 14:52:58] INFO [order.views:188] buy rlagusrkd123 17 217000 1
+[2021-06-23 14:52:58] INFO [order.views:188] buy rlagusrkd123 56 395100 1
+[2021-06-23 14:53:05] INFO [product.views:199] plist rlagusrkd123 6
+[2021-06-23 14:53:06] INFO [order.views:39] cart rlagusrkd123 6
+[2021-06-23 14:53:37] INFO [product.views:199] plist rlagusrkd123 5
+[2021-06-23 14:53:39] INFO [order.views:39] cart rlagusrkd123 5
+[2021-06-23 14:53:44] INFO [order.views:188] buy rlagusrkd123 6 357000 1
+[2021-06-23 14:53:44] INFO [order.views:188] buy rlagusrkd123 5 664000 1
+[2021-06-23 14:56:30] INFO [product.views:199] plist hoduldul 55
+[2021-06-23 14:56:32] INFO [order.views:39] cart hoduldul 55
+[2021-06-23 14:56:38] INFO [product.views:199] plist hoduldul 79
+[2021-06-23 14:57:05] INFO [product.views:199] plist hoduldul 18
+[2021-06-23 14:57:06] INFO [order.views:39] cart hoduldul 18
+[2021-06-23 14:57:23] INFO [product.views:199] plist hoduldul 66
+[2021-06-23 14:58:27] INFO [order.views:39] cart hoduldul 66
+[2021-06-23 14:58:32] INFO [order.views:188] buy hoduldul 18 201000 1
+[2021-06-23 14:58:32] INFO [order.views:188] buy hoduldul 66 198400 1
+[2021-06-23 14:58:45] INFO [product.views:199] plist rlagusrkd123 38
+[2021-06-23 14:58:47] INFO [order.views:39] cart rlagusrkd123 38
+[2021-06-23 14:58:57] INFO [order.views:188] buy rlagusrkd123 38 115000 2
+[2021-06-23 14:59:21] INFO [product.views:199] plist rlagusrkd123 65
+[2021-06-23 14:59:23] INFO [order.views:39] cart rlagusrkd123 65
+[2021-06-23 14:59:52] INFO [product.views:199] plist rlagusrkd123 50
+[2021-06-23 15:00:34] INFO [product.views:199] plist rlagusrkd123 74
+[2021-06-23 15:00:35] INFO [order.views:39] cart rlagusrkd123 74
+[2021-06-23 15:00:38] INFO [order.views:188] buy rlagusrkd123 74 326000 1
+[2021-06-23 15:01:27] INFO [product.views:199] plist rlagusrkd123 6
+[2021-06-23 15:01:31] INFO [product.views:199] plist rlagusrkd123 3
+[2021-06-23 15:01:32] INFO [order.views:39] cart rlagusrkd123 3
+[2021-06-23 15:01:36] INFO [product.views:199] plist rlagusrkd123 5
+[2021-06-23 15:01:37] INFO [order.views:39] cart rlagusrkd123 5
+[2021-06-23 15:01:40] INFO [order.views:188] buy rlagusrkd123 3 485000 1
+[2021-06-23 15:01:40] INFO [order.views:188] buy rlagusrkd123 5 664000 1
+[2021-06-23 15:03:09] INFO [product.views:199] plist rlagusrkd123 69
+[2021-06-23 15:03:10] INFO [order.views:39] cart rlagusrkd123 69
+[2021-06-23 15:06:23] INFO [product.views:199] plist rlagusrkd123 46
+[2021-06-23 15:06:26] INFO [order.views:39] cart rlagusrkd123 46
+[2021-06-23 15:06:30] INFO [order.views:188] buy rlagusrkd123 69 160700 1
+[2021-06-23 15:06:30] INFO [order.views:188] buy rlagusrkd123 46 183000 1
+[2021-06-23 15:10:07] INFO [product.views:199] plist rlagusrkd123 29
+[2021-06-23 15:10:10] INFO [order.views:39] cart rlagusrkd123 29
+[2021-06-23 15:10:13] INFO [order.views:188] buy rlagusrkd123 29 78000 1
+[2021-06-23 15:10:18] INFO [product.views:199] plist rlagusrkd123 7
+[2021-06-23 15:10:19] INFO [order.views:39] cart rlagusrkd123 7
+[2021-06-23 15:10:22] INFO [product.views:199] plist rlagusrkd123 9
+[2021-06-23 15:10:23] INFO [order.views:39] cart rlagusrkd123 9
+[2021-06-23 15:10:36] INFO [order.views:188] buy rlagusrkd123 7 1404000 2
+[2021-06-23 15:10:36] INFO [order.views:188] buy rlagusrkd123 9 184000 1
+[2021-06-23 15:10:44] INFO [product.views:199] plist rlagusrkd123 93
+[2021-06-23 15:10:45] INFO [order.views:39] cart rlagusrkd123 93
+[2021-06-23 15:10:48] INFO [product.views:199] plist rlagusrkd123 11
+[2021-06-23 15:10:50] INFO [order.views:39] cart rlagusrkd123 11
+[2021-06-23 15:10:53] INFO [product.views:199] plist rlagusrkd123 22
+[2021-06-23 15:10:55] INFO [order.views:39] cart rlagusrkd123 22
+[2021-06-23 15:10:57] INFO [order.views:188] buy rlagusrkd123 93 389000 1
+[2021-06-23 15:10:57] INFO [order.views:188] buy rlagusrkd123 11 194000 1
+[2021-06-23 15:10:57] INFO [order.views:188] buy rlagusrkd123 22 214000 1
+[2021-06-23 15:11:57] INFO [product.views:199] plist rlagusrkd123 52
+[2021-06-23 15:12:00] INFO [order.views:39] cart rlagusrkd123 52
+[2021-06-23 15:12:22] INFO [product.views:199] plist rlagusrkd123 85
+[2021-06-23 15:12:23] INFO [order.views:39] cart rlagusrkd123 85
+[2021-06-23 15:12:28] INFO [order.views:188] buy rlagusrkd123 52 197000 1
+[2021-06-23 15:12:28] INFO [order.views:188] buy rlagusrkd123 85 531000 2
+[2021-06-23 15:12:39] INFO [product.views:199] plist rlagusrkd123 40
+[2021-06-23 15:12:40] INFO [order.views:39] cart rlagusrkd123 40
+[2021-06-23 15:12:47] INFO [product.views:199] plist rlagusrkd123 37
+[2021-06-23 15:12:48] INFO [order.views:39] cart rlagusrkd123 37
+[2021-06-23 15:12:51] INFO [order.views:188] buy rlagusrkd123 40 248000 1
+[2021-06-23 15:12:51] INFO [order.views:188] buy rlagusrkd123 37 157000 1
+[2021-06-23 15:17:56] INFO [product.views:199] plist rlagusrkd123 71
+[2021-06-23 15:17:57] INFO [order.views:39] cart rlagusrkd123 71
+[2021-06-23 15:18:02] INFO [order.views:188] buy rlagusrkd123 71 201700 1
+[2021-06-23 15:29:51] INFO [product.views:199] plist jihoonl0414 8
+[2021-06-23 15:30:56] INFO [product.views:199] plist jihoonl0414 99
+[2021-06-23 15:30:58] INFO [order.views:39] cart jihoonl0414 99
+[2021-06-23 15:31:31] INFO [product.views:199] plist None 43
+[2021-06-23 15:33:03] INFO [product.views:199] plist jihoonl0414 87
+[2021-06-23 15:33:08] INFO [order.views:39] cart jihoonl0414 87
+[2021-06-23 15:33:12] INFO [order.views:188] buy jihoonl0414 99 323000 1
+[2021-06-23 15:33:12] INFO [order.views:188] buy jihoonl0414 87 297400 1
+[2021-06-23 15:33:52] INFO [product.views:199] plist None 55
+[2021-06-23 15:34:04] INFO [product.views:199] plist None 65
+[2021-06-23 15:34:12] INFO [product.views:199] plist None 20
+[2021-06-23 15:34:33] INFO [product.views:199] plist None 79
+[2021-06-23 15:38:07] INFO [product.views:199] plist None 29
+[2021-06-23 15:39:20] INFO [product.views:199] plist None 96
+[2021-06-23 15:43:32] INFO [product.views:199] plist None 93
+[2021-06-23 15:44:07] INFO [product.views:199] plist jihoonl0414 93
+[2021-06-23 15:44:09] INFO [order.views:39] cart jihoonl0414 93
+[2021-06-23 15:44:12] INFO [order.views:188] buy jihoonl0414 93 389000 1
+[2021-06-23 16:05:59] INFO [product.views:199] plist jihoonl0414 16
+[2021-06-23 16:06:00] INFO [order.views:39] cart jihoonl0414 16
+[2021-06-23 16:06:04] INFO [order.views:188] buy jihoonl0414 16 298000 1
+[2021-06-23 16:57:09] INFO [product.views:199] plist None 98
+[2021-06-23 16:57:12] INFO [product.views:199] plist None 98
+[2021-06-23 16:58:04] INFO [product.views:199] plist sktjsdnd 11
+[2021-06-23 16:58:15] INFO [order.views:39] cart sktjsdnd 11
+[2021-06-23 16:58:22] INFO [order.views:188] buy sktjsdnd 11 194000 1
