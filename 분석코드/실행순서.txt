@@ -1,0 +1,107 @@
+Web 실행순서
+
+관리자계정
+	ID : admin
+	PW : admin1234
+
+주소
+	url : 192.168.56.102:8000
+
+
+url : (all)
+Shop으로 카테고리 항목으로 이동 가능
+로고 클릭 시 main페이지로 이동
+
+상단 Tjoeun Jewelry 클릭으로 main 페이지로 이동
+
+비회원으로 접속하면 Login, Board 노출
+LOGIN 클릭 후 회원가입 가능
+LOGIN 클릭으로 로그인 가능
+
+회원으로 접속하면 Logout, MyPage 노출
+LOGOUT 클릭으로 로그아웃
+
+Cart 클릭 시 장바구니 이동
+
+로그인 시 추천 상품 노출
+로그인 상태가 아닐 경우 BEST SELLER 노출
+
+url : /product/ring~Bracelet
+Shop 클릭 시 상품 카테고리 이동 가능
+Ring, Necklace, Earring, Bracelet 클릭 시 각 카테고리로 이동
+
+url : /product/plist?pnum={{pnum}}
+Details 클릭 후 상품 상세페이지 이동
+
+-------------------------------------------회원---------------------------------------------------
+
+url : /order/cart?user_id={{user_id}}&pnum={{pnum}}
+Add to cart로 상품 장바구니에 추가
+
+장바구니에서 상품 수량 변경 및 삭제 가능
+
+결제하기 클릭 후 확인 클릭시 구매내역 페이지로 이동
+
+url : http://localhost:8000/order/buy_pro
+구매내역 확인
+
+url : /member/mypage?user_id={{user_id}}
+MyPage 클릭으로 mypage 페이지로 이동
+
+url : /member/orderlist
+구매내역 확인
+
+url : /member/modifypro
+가입 시 입력했던 비밀번호 입력 후 수정 클릭
+ID, 생년월일, 성별을 제외한 회원정보 수정 가능
+
+url : /member/delete
+가입 시 입력했던 비밀번호 입력 후 탈퇴 클릭
+
+url : /board/boardlist?user_id={{user_id}}
+게시판 글 확인
+
+url : /board/write
+게시판 글 작성 후 작성 클릭 시 글 등록
+
+url : /board/detail?num={{num}}&pagenum={{pagenum}}&number={{number}}
+작성했던 글 확인
+
+url : /board/modify?num={{num}}&pagenum={{pagenum}}&number={{number}}
+글 수정 클릭 시 작성 했던 글 수정 가능
+
+url : /board/write?num={{num}}&ref=4&restep=2&relevel=1
+답글 클릭 시 해당 글의 답글 작성 가능
+
+url : /board/boarddelete?num={{num}}&pagenum={{pagenum}}
+글 작성 시 입력했던 비밀번호 입력 후 삭제 클릭 시 글 삭제
+
+
+
+System 실행 순서
+gedit /etc/crontab
+
+매 시간 10분마다 start.sh 실행
+log는 start.log에서 확인 가능
+
+start.sh
+SQOOP import, pyspark 분석, SQOOP export
+
+매 시간 10분마다 flume.sh 실행
+log는 flume.log에서 확인 가능
+
+flume.sh
+/input/flume/* 에 있는 모든 파일 삭제
+Web에 있는 logfile.log 삼바 서버로 이동
+
+매 시간 10분마다 log.sh 실행
+log는 log.log에서 확인 가능
+
+log.sh
+flume으로 갖고온 logfile들을 삼바 서버의 log.txt로 이동
+/input 디렉토리 안으로 log.txt 이동
+Maven으로 만든 jar 파일 실행
+log.txt 전처리 후 삼바 서버에 logdata.txt 생성
+
+**모든 쉘은 bash (쉘 이름).sh으로 실행 가능
+순서는 start.sh -> flume.sh -> log.sh
