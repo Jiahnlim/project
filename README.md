@@ -12,3 +12,13 @@ django framework 를 활용하여 The Joeun Jewerly online shoppingmall 구현
 - Mysql 을 이용한 상품메타정보, 회원정보, 장바구니, 구매내역 DB 설계
 - 사용자 사용log 파일 적재 후 분석
 - 분석 결과를 추천상품DB로 export 하여 메인페이지 html에 추천상품 노출
+
+사용된 기능 :
+
+- WEB
+  - Django, HTML, CSS, Jquery, Ajax, Javascript
+- Analysis
+  - Python
+  - HADOOP
+  - Pyspark
+  - Scala
