@@ -17,6 +17,7 @@ django framework 를 활용하여 The Joeun Jewerly online shoppingmall 구현
 
 - WEB
   - Django, HTML, CSS, Jquery, Ajax, Javascript
+
 - Analysis
   - Python
   - HADOOP
